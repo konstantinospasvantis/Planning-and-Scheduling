@@ -1,0 +1,8 @@
+number_of_parking_lanes = 7;
+number_of_trucks = 15;
+parking_lane_length = 16;
+
+truck_length = [2,4,6,4,5,2,3,1,4,5,3,4,9,3,4];
+truck_type = [laneA,laneB,laneA,laneA,laneB,laneB,laneA,laneA,laneB,laneA,laneB,laneB,laneA,laneA,laneA];
+parking_lane_type = [laneA,laneB,laneB,laneA,laneB,laneA,laneB];
+

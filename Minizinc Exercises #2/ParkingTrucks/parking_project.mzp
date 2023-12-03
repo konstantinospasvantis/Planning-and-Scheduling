@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "parking.mzn",
+        "parkingData1.dzn",
+        "parkingData2.dzn",
+        "parkingData3.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "parking.mzn",
+        "parkingData1.dzn",
+        "parkingData2.dzn",
+        "parkingData3.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

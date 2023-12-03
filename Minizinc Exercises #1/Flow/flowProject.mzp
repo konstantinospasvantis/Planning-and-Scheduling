@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "aflow.mzn",
+        "Dataflow1.dzn",
+        "Dataflow2.dzn",
+        "Dataflow3.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "Dataflow1.dzn",
+        "Dataflow2.dzn",
+        "Dataflow3.dzn",
+        "aflow.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
